@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
  
 # 💫 About Me:
-Sou Estudante de Sistemas de Informação, atualmente estou no 2º período.
+Estudante de Sistemas de Informação, atualmente estou no 2º período.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elailsonpantoja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ElailsonPantoja])
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elailsonpantoja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ElailsonPantoja) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Elailson-Pantoja&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Elailson-Pantoja&theme=highcontrast&hide_border=false)<br/>
@@ -33,5 +33,8 @@ Sou Estudante de Sistemas de Informação, atualmente estou no 2º período.
 [![](https://visitcount.itsvg.in/api?id=Elailson-Pantoja&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 
