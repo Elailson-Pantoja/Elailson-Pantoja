@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Sou Estudante de Sistemas de Irformação, atualmente estou no 2º período.
+ Sou Estudante de Sistemas de Informação, atualmente estou no 2º período.
  
 <div>
   <a href='https://github.com/Elailson-Pantoja'>
